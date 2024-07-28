@@ -17,7 +17,7 @@ For people who do not know what these analyses mean, here's a short explanation 
 
 5. SHAP/LIME Analysis -- SHAP (SHapley Additive exPlanations) and LIME (Local Interpretable Model-agnostic Explanations) are techniques used to explain the predictions of machine learning models. SHAP provides consistent and globally interpretable feature importance values based on cooperative game theory, while LIME explains individual predictions by approximating the model locally with an interpretable model.
 
-How to run it? Well, that's pretty easy for GUI.
+How to run it? Well, that's pretty easy.
 
   **PREREQUISITES**
 1. Clone or download the repository
